@@ -1,0 +1,11 @@
+replaces slangs (what's --> what is)
+lower all chars
+remove puncuation
+tokenize
+dump in class AI
+
+class_AI categorizes
+if class is not others:
+	responder responds
+else:
+	chatbot_AI responds

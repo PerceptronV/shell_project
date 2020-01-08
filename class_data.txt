@@ -1,0 +1,108 @@
+<class>time
+what's the time
+what is the time
+can you tell me what is the time
+can you tell me what's the time
+time
+tell me the time
+give me the time
+
+<class>weather
+what is the weather like today
+weather
+tell me the weather
+give me the weather
+how is the weather
+how's the weather
+how's the weather like today
+how is the weather like today
+is it raining today
+raining today
+sunny today
+is it sunny today
+
+<class>temperature
+hot today
+is it hot today
+cold today
+is it cold today
+what is the temperature
+temperature
+tell me the temperature
+how cold is it today
+how cold today
+how hot today
+how hot is it today
+
+<class>next_lesson_info #include subject, location, time, and beak#
+what is my next class
+next class
+check for my next class
+tell me my next class
+what is my next lesson
+next lesson
+check for my next lesson
+tell me my next lesson
+
+<class>next_lesson_loc
+where is my next class
+where is my next lesson
+tell me the location of my next class
+location of my next class
+tell me the location of my next lesson
+location of my next lesson
+
+<class>rem_lessons_today
+lessons
+lessons today
+remaining lessons today
+what are my lessons today
+tell me my lessons today
+what are my remaining lessons today
+classes
+classes today
+remaining classes today
+what are my classes today
+tell me my classes today
+what are my remaining classes today
+
+<class>lessons_tmr
+lessons tomorrow
+remaining lessons tomorrow
+what are my lessons tomorrow
+tell me my lessons tomorrow
+what are my remaining lessons tomorrow
+classes tomorrow
+remaining classes tomorrow
+what are my classes tomorrow
+tell me my classes tomorrow
+what are my remaining classes tomorrow
+
+<class>self_info
+tell me about you
+what are you
+who are you
+
+<class>self_name
+what is your name
+your name
+tell me your name
+give me your name
+how are you called
+how should i call you
+
+<class>others
+hi
+how are you
+let us have some fun
+ooo
+jeez bro
+hey
+what's up
+tell ye
+adfkln
+eenene
+whoah
+hello
+let's talk shall we
+not like a pig
