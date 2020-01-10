@@ -34,7 +34,7 @@ how cold today
 how hot today
 how hot is it today
 
-<class>next_lesson_info #include subject, location, time, and beak#
+<class>next_lesson_info#include subject, location, time, and beak#
 what is my next class
 next class
 check for my next class
