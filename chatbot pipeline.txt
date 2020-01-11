@@ -1,7 +1,7 @@
 replaces slangs (what's --> what is)
 lower all chars
 remove puncuation
-tokenize
+tokenize & numpy
 dump in class AI
 
 class_AI categorizes
