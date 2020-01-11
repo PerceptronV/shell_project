@@ -6,6 +6,11 @@ can you tell me what's the time
 time
 tell me the time
 give me the time
+what time is it
+when is it
+is it morning
+is it afternoon
+is it evening
 
 <class>weather
 what is the weather like today
