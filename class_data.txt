@@ -39,6 +39,8 @@ dry outside
 dry
 how is the weather outside
 how is the weather
+what is the weather
+what is the weather like
 
 <class>temperature
 cool outside
