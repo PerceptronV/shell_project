@@ -29,6 +29,16 @@ what is the weather like outside
 weather outside
 what is the weather outside
 tell me the weather outside
+is it rainy outside
+rainy
+is it cool outside
+is it cool
+rainy outside
+cool outside
+freezing outside
+dry outside
+freezing
+dry
 
 <class>temperature
 hot today
