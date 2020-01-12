@@ -71,6 +71,10 @@ is it cold
 is it hot outside
 is it cold outside
 give me the temperature outside
+how hot is it outside
+how cold is it outside
+how hot is it
+how cold is it
 
 <class>next_lesson_info#include subject, location, time, and beak#
 what is my next class
