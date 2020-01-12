@@ -1,6 +1,7 @@
 replaces slangs (what's --> what is)
 lower all chars
 remove puncuation
+stem & bag
 tokenize & numpy
 dump in class AI
 
