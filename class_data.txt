@@ -1,5 +1,4 @@
 <class>time
-what's the time
 what is the time
 can you tell me what is the time
 can you tell me what's the time
@@ -8,9 +7,9 @@ tell me the time
 give me the time
 what time is it
 when is it
-is it morning
-is it afternoon
-is it evening
+morning
+afternoon
+evening
 
 <class>weather
 what is the weather like today
@@ -31,8 +30,8 @@ what is the weather outside
 tell me the weather outside
 is it rainy outside
 rainy
-is it cool outside
-is it cool
+cool outside
+cool
 rainy outside
 cool outside
 freezing outside
