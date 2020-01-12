@@ -34,19 +34,19 @@ the weather outside
 the weather outside
 is it rainy outside
 rainy
-cool outside
-cool
 rainy outside
-cool outside
-freezing outside
 dry outside
-freezing
 dry
 how is the weather outside
-how cold is it
 how is the weather
 
 <class>temperature
+cool outside
+freezing
+freezing outside
+cool outside
+how cold is it
+cool
 hot today
 is it hot today
 cold today
@@ -64,6 +64,8 @@ cold outside
 what's the temperature outside
 the temperature outside
 the temperature outside
+is it hot
+is it cold
 
 <class>next_lesson_info#include subject, location, time, and beak#
 what is my next class
