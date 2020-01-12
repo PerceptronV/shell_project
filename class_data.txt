@@ -66,6 +66,9 @@ the temperature outside
 the temperature outside
 is it hot
 is it cold
+is it hot outside
+is it cold outside
+give me the temperature outside
 
 <class>next_lesson_info#include subject, location, time, and beak#
 what is my next class
@@ -74,7 +77,6 @@ check for my next class
 tell me my next class
 what is my next lesson
 next lesson
-check for my next lesson
 tell me my next lesson
 when is my next lesson
 when is my next class
@@ -170,3 +172,19 @@ love you
 love your name
 aaf
 ayae
+outside
+outside is cool hah
+haha
+joy
+called
+how
+are you
+ok
+how are you
+location
+what is my location
+your location
+tell me your location
+check
+check for me
+is it
