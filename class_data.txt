@@ -76,6 +76,10 @@ what is my next lesson
 next lesson
 check for my next lesson
 tell me my next lesson
+when is my next lesson
+when is my next class
+tell me when is my next lesson
+tell me when is my next class
 
 <class>next_lesson_loc
 where is my next class
@@ -84,6 +88,8 @@ tell me the location of my next class
 location of my next class
 tell me the location of my next lesson
 location of my next lesson
+can you tell me where is my next lesson
+can you tell me where is my next class
 
 <class>rem_lessons_today
 lessons
@@ -98,6 +104,8 @@ remaining classes today
 what are my classes today
 tell me my classes today
 what are my remaining classes today
+when are my lessons today
+when are my remaining lessons today
 
 <class>lessons_tmr
 lessons tomorrow
