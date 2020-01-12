@@ -25,6 +25,10 @@ is it raining today
 raining today
 sunny today
 is it sunny today
+what is the weather like outside
+weather outside
+what is the weather outside
+tell me the weather outside
 
 <class>temperature
 hot today
@@ -38,6 +42,12 @@ how cold is it today
 how cold today
 how hot today
 how hot is it today
+temperature outside
+how hot is it outside
+how cold is it outside
+what's the temperature outside
+give me the temperature outside
+tell me the temperature outside
 
 <class>next_lesson_info#include subject, location, time, and beak#
 what is my next class
@@ -87,6 +97,7 @@ what are my remaining classes tomorrow
 tell me about you
 what are you
 who are you
+you
 
 <class>self_name
 what is your name
@@ -95,6 +106,7 @@ tell me your name
 give me your name
 how are you called
 how should i call you
+name
 
 <class>others
 hi
@@ -111,3 +123,6 @@ whoah
 hello
 let's talk shall we
 not like a pig
+hey bro what's up
+you know what?
+hey there
