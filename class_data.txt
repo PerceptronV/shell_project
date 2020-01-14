@@ -16,6 +16,33 @@ is it morning
 is it afternoon
 is it evening
 
+<class>date
+what is the date
+whats the date
+can you tell me what is the date
+can you tell me what's the date
+date
+tell me the date
+give me the date
+what date is it
+what date is it today
+what date today
+date today
+today
+tell me what is the date
+what date is today
+what day is today
+what day today
+day today
+today is what day
+today is what date
+what is it today
+what's today
+today what day
+today what date
+today's what day
+today's what day
+
 <class>weather
 whats the weather like today
 what is the weather like today
