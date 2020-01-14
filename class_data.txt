@@ -1,5 +1,6 @@
 <class>time
 what is the time
+whats the time
 can you tell me what is the time
 can you tell me what's the time
 time
@@ -16,6 +17,7 @@ is it afternoon
 is it evening
 
 <class>weather
+whats the weather like today
 what is the weather like today
 weather
 tell me the weather
@@ -75,6 +77,7 @@ how hot is it outside
 how cold is it outside
 how hot is it
 how cold is it
+whats the temperature
 
 <class>next_lesson_info#include subject, location, time, and beak#
 what is my next class
@@ -89,6 +92,7 @@ when is my next class
 tell me when is my next lesson
 tell me when is my next class
 when's lesson
+whats my next lesson
 
 <class>next_lesson_loc
 where is my next class
@@ -106,6 +110,7 @@ lessons
 lessons today
 remaining lessons today
 what are my lessons today
+whats my lessons today
 tell me my lessons today
 what are my remaining lessons today
 classes
@@ -209,3 +214,4 @@ when
 when were you born
 auigagjba galku
 agruilpah47qag 4w
+whats
