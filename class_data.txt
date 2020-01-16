@@ -43,6 +43,8 @@ today what date
 today's what day
 today's what day
 what is the date today
+what is the day
+what is the day today
 
 <class>weather
 whats the weather like today
