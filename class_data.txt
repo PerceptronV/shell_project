@@ -42,6 +42,7 @@ today what day
 today what date
 today's what day
 today's what day
+what is the date today
 
 <class>weather
 whats the weather like today
