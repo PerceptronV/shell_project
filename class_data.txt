@@ -21,6 +21,15 @@ tell me what is the time
 is it morning
 is it afternoon
 is it evening
+tell me what is the time now
+tell me the time now
+is it late
+how late is it
+how early is it
+how late is it now
+how early is it now
+what is time
+time at the present
 
 <class>date
 what is the date
@@ -50,9 +59,13 @@ today's what day
 what is the date today
 what is the day
 what is the day today
+date now
+day now
+give me the date now
+what is the day now
 
 <class>weather
-whats the weather like today
+what's the weather today
 what is the weather like today
 weather
 tell me the weather
@@ -68,7 +81,6 @@ is it sunny today
 what is the weather like outside
 weather outside
 the weather outside
-the weather outside
 is it rainy outside
 rainy
 rainy outside
@@ -78,6 +90,13 @@ how is the weather outside
 how is the weather
 what is the weather
 what is the weather like
+weather like
+weather today
+weather now
+what is the weather now
+can you tell me the weather now
+weather outside now
+the weather outside now
 
 <class>temperature
 cool outside
@@ -127,7 +146,16 @@ when is my next class
 tell me when is my next lesson
 tell me when is my next class
 when's lesson
-whats my next lesson
+information about my next lesson
+next lesson information
+what is my lesson
+what is my class
+when does my next class start
+when does next class start
+when does my next lesson start
+when does next lesson start
+next lesson starts at
+next class starts at
 
 <class>next_lesson_loc
 where is my next class
@@ -291,3 +319,20 @@ what's
 someone
 please
 me please
+late
+early
+late is it
+early is it
+at the present
+present
+starts at
+ends at
+can someone tell me his name
+well look today let's have fun
+give me your funny faces
+long sentences reduce biases in dataset
+when is my
+what is my
+what is the
+how are the
+weather like bisa
