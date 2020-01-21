@@ -1,6 +1,12 @@
 <class>time
 what is the time
-whats the time
+when is it now
+what time is it now
+now
+what hour is it now
+time now
+give me the time now
+can you tell me the time now
 can you tell me what is the time
 can you tell me what's the time
 time
@@ -18,7 +24,6 @@ is it evening
 
 <class>date
 what is the date
-whats the date
 can you tell me what is the date
 can you tell me what's the date
 date
@@ -169,6 +174,8 @@ tell me about you
 what are you
 who are you
 you
+can you tell me who are you
+please tell me something about you
 
 <class>self_name
 what is your name
@@ -178,6 +185,7 @@ give me your name
 how are you called
 how should i call you
 name
+what's your name
 
 <class>others
 hi
