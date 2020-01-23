@@ -204,6 +204,7 @@ who are you
 you
 can you tell me who are you
 please tell me something about you
+introduce yourself
 
 <class>self_name
 what is your name
@@ -336,3 +337,8 @@ what is my
 what is the
 how are the
 weather like bisa
+mate mate
+mate
+what is your
+is your
+starts at
