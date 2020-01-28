@@ -226,19 +226,8 @@ someone help
 somebody help
 someone help please
 someboedy help please
-can somebody help please
-can someone help please
-can someone help me
-can somebody help me
 can you help me
-you help me
 help me
-someone help me
-somebody help me
-someone help me please
-someboedy help me please
-can somebody help me please
-can someone help me please
 save me
 can someone save me
 help please
@@ -363,3 +352,4 @@ is
 biology
 english
 play my lessons tomorrow
+the time now is 17:47
