@@ -97,6 +97,7 @@ what is the weather now
 can you tell me the weather now
 weather outside now
 the weather outside now
+what's the weather forecast
 
 <class>temperature
 cool outside
