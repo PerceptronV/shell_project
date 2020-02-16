@@ -246,6 +246,9 @@ tell me what's on
 tell me events today
 what are the activities today
 calendar events
+what's going on today
+what's up today
+what's going on
 
 <class>lecture
 what are the lectures this week
