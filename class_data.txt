@@ -218,21 +218,12 @@ name
 what's your name
 
 <class>help
-can someone help
-can somebody help
-can you help
-you help
+can someone help me
 help
-someone help
-somebody help
-someone help please
-someboedy help please
-can you help me
 help me
+someone help me
+somebody help me
 save me
-can someone save me
-help please
-save me please
 
 <class>others
 hi
@@ -357,3 +348,4 @@ the time now is 17:47
 what am I
 so I am your personal
 no
+my lessons tomorrow
