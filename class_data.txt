@@ -225,6 +225,39 @@ someone help me
 somebody help me
 save me
 
+<class>events
+what are my upcoming events
+events on calendar
+events on school calendar
+upcoming events on calendar
+upcoming events
+events today
+what's on calendar today
+school calendar today
+upcoming events today
+calendar events today
+what are some events today
+what's on today
+activities today
+what's happening today
+happening today
+what's on
+tell me what's on
+tell me events today
+what are the activities today
+calendar events
+
+<class>lecture
+what are the lectures this week
+lectures this week
+this week lecture
+the lectures this week
+what are lectures
+tell me the lectures
+can you tell me the lectures this week
+what lectures are on this week
+lecutres i can join this week
+
 <class>others
 hi
 how are you
@@ -355,3 +388,15 @@ on the way
 no
 no
 no
+up
+coming
+uncoanig
+calendar
+calenda
+eventu
+ent
+ant
+end
+what are the elections tomorrow
+what are the now
+what is the now
