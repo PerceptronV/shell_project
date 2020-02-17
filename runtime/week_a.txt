@@ -1,0 +1,84 @@
+Monday
+Chemistry
+Cooper, J
+DT
+McMahon, R R
+French
+Tremlett, M J
+History
+Wendelken, Dr D R
+Latin
+Chirnside, A
+Biology
+Bieneman, P J (Senior Master)
+Mathematics
+Hall, J P B
+English
+Morley, A S
+Tuesday
+Mathematics
+Hall, J P B
+Shell Carousel
+Permain, N
+Chemistry
+Cooper, J
+TP
+McAleer, J D B
+Geography
+Martin-Jenkins, R S
+Wednesday
+TP
+McAleer, J D B
+History
+Wendelken, Dr D R
+Spanish
+Turner, A D J
+English
+Morley, A S
+French
+Tremlett, M J
+Art
+Permain, N
+Music
+Evans, P J
+Physics
+Bedford, Dr J A P
+Thursday
+Spanish
+Turner, A D J
+Geography
+Martin-Jenkins, R S
+Biology
+Bieneman, P J (Senior Master)
+Latin
+Chirnside, A
+Mathematics
+Hall, J P B
+Friday
+Geography
+Martin-Jenkins, R S
+Computer Science
+Marchant, N J
+English
+Morley, A S
+Physics
+Bedford, Dr J A P
+Biology
+Bieneman, P J (Senior Master)
+Spanish
+Turner, A D J
+History
+Wendelken, Dr D R
+French
+Tremlett, M J
+Saturday
+Latin
+Chirnside, A
+Chemistry
+Cooper, J
+English
+Morley, A S
+Mathematics
+Hall, J P B
+Physics
+Bedford, Dr J A
