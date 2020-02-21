@@ -30,6 +30,7 @@ how late is it now
 how early is it now
 what is time
 time at the present
+what's the time now
 
 <class>date
 what is the date
@@ -448,3 +449,4 @@ hey siri
 companion
 cold
 hot
+how's life
