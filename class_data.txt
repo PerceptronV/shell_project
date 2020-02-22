@@ -225,6 +225,8 @@ help me
 someone help me
 somebody help me
 save me
+can someone help
+help me please
 
 <class>events
 what are my upcoming events
