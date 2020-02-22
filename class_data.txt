@@ -207,6 +207,7 @@ you
 can you tell me who are you
 please tell me something about you
 introduce yourself
+who are you
 
 <class>self_name
 what is your name
