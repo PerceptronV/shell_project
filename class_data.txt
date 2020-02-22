@@ -186,6 +186,11 @@ tell me my classes today
 what are my remaining classes today
 when are my lessons today
 when are my remaining lessons today
+lessons left
+lessons left today
+what lessons are left today
+my lessons left
+classes left
 
 <class>lessons_tmr
 lessons tomorrow
