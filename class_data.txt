@@ -236,6 +236,7 @@ help me please
 
 <class>events
 what are my upcoming events
+what's on my calendar
 events on calendar
 events on school calendar
 upcoming events on calendar
