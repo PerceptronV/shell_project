@@ -233,11 +233,14 @@ somebody help me
 save me
 can someone help
 help me please
+someone please help me
+help please
 
 <class>events
 what are my upcoming events
 what's on my calendar
 events on calendar
+what's up on calendar
 events on school calendar
 upcoming events on calendar
 upcoming events
@@ -481,3 +484,4 @@ was being transferred
 how are you
 hi there how are you
 matches this week
+what's the next
