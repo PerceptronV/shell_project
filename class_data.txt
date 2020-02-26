@@ -14,9 +14,6 @@ tell me the time
 give me the time
 what time is it
 when is it
-morning
-afternoon
-evening
 tell me what is the time
 is it morning
 is it afternoon
@@ -31,6 +28,7 @@ how early is it now
 what is time
 time at the present
 what's the time now
+what is the present time now
 
 <class>date
 what is the date
