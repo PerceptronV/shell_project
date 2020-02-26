@@ -159,17 +159,6 @@ when does next lesson start
 next lesson starts at
 next class starts at
 
-<class>next_lesson_loc
-where is my next class
-where is my next lesson
-tell me the location of my next class
-location of my next class
-tell me the location of my next lesson
-location of my next lesson
-can you tell me where is my next lesson
-can you tell me where is my next class
-where's lesson
-
 <class>rem_lessons_today
 lessons
 lessons today
