@@ -268,6 +268,33 @@ what are the talks
 tell me the talks
 talks i can join
 
+<class>corona
+number of corona in hong kong
+corona cases in hong kong
+corona virus cases in
+number of corona cases in 
+number of coronavirus cases in america
+number of corona virus cases in
+number of corona cases
+corona cases
+coronavirus
+coronavirus cases
+global number of coronavirus cases
+
+<class>corona_pred
+predict the number of corona virus cases in
+predict number of corona in hong kong
+future number of corona virus in hong kong
+predict the number of coronva cases
+predict future corona cases in uk
+predict corona vases
+predict future corona virus cases in
+what is the number of future corona virus cases in
+future corona virus cases
+future number of corona
+predict future confirmed corona cases in
+predict future confirmed corona virus cases
+
 <class>others
 hi
 how are you
@@ -472,3 +499,9 @@ how are you
 hi there how are you
 matches this week
 what's the next
+predict the number of
+the number
+predict cases of in
+predict in hong kong
+predict cases
+predict corona
