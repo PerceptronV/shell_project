@@ -506,6 +506,5 @@ the number
 predict cases of in
 predict in hong kong
 predict cases
-predict corona
 corona
 date
