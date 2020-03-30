@@ -295,6 +295,7 @@ future number of corona
 predict future confirmed corona cases in
 predict future confirmed corona virus cases
 tell me corona prediction for hong kong
+predict corona in hong kong
 
 <class>others
 hi
